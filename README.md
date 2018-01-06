@@ -1,6 +1,8 @@
 # curriculum
 Open Source Curriculum for CNCF Certification Courses
 
-This is the version 0.9 curriculum of CNCF Certified Kubernetes Adminstrator Exam. If you see an issue with the document, please open an issue. Minor issues may be addressed with updates. Major issue will require updates to the document which will come with new versions of the exam, generally coinciding with new version of Kubernetes.
+This is the the latest version of the curriculum for the CNCF Certified Kubernetes Adminstrator (CKA) Exam. If you see any errors with the document, please open an [issue](https://github.com/cncf/curriculum/issues/new) here. The document major and minor version (e.g., the 1 and 8 in 1.8.0) match the version of Kubernetes. The patch version (e.g., the 0 in 1.8.0) represents any iterations in the documentation for that version of Kubernetes. [Old versions](https://github.com/cncf/curriculum/tree/master/old-versions) remain available.
+
+CNCF encourages training companies to align their offerings to cover the contents of the curriculum. Training [partners](https://www.cncf.io/certification/training/) can purchase coupons for the CKA exam at a wholesale price to offer at the end of their training.
 
 The Curriculum is available under the [CC-BY 4.0+ License](https://creativecommons.org/licenses/by/4.0/).
