@@ -6,17 +6,24 @@ This certification will provide an onramp for an individual to get situated in t
 
 ## Domains
 
-TODO
+* Kubernetes Fundamentals	46%
+* Container Orchestration	22%
+* Cloud Native Architecture	16%
+* Cloud Native Observability	8%
+* Cloud Native Application Delivery	8%
 
 ## Resources
 
 To help you prepare for the certification, we recommend these materials and courses:
 
+* https://training.linuxfoundation.org/training/kubernetes-and-cloud-native-essentials-lfs250/
 * https://www.edx.org/course/introduction-to-cloud-infrastructure-technologies
 * https://www.edx.org/course/introduction-to-kubernetes
 * https://www.edx.org/course/introduction-to-kubernetes-on-edge-with-k3s
 * https://kube.academy
 * https://www.edx.org/course/introduction-to-linux
+* https://civo.com/academy
+* [KCNA Course Overview](https://youtu.be/iGkFHB1kFZ0)
 
 ## Acknowledgements 
 
@@ -30,4 +37,3 @@ And special thank you to all who contributed to the creation and testing of the 
 * David McKay
 * Walid Shaari
 * Saiyam Pathak
-* TODO collect the final list
