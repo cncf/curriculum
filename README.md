@@ -8,7 +8,7 @@ This is the latest version of the curriculum for the following CNCF exams:
 * Certified Kubernetes Application Developer (CKAD)
 * Certified Kubernetes Security Specialist (CKS)
 * Kubernetes and Cloud Native Associate (KCNA)
-* Prometheus Certified Associate (PCA) ** Coming 2022 **
+* Prometheus Certified Associate (PCA)
 
 If you see any errors with the document, please open an [issue](https://github.com/cncf/curriculum/issues/new) here. The document major and minor version (e.g., the 1 and 8 in 1.8.0) match the version of Kubernetes. The patch version (e.g., the 0 in 1.8.0) represents any iterations in the documentation for that version of Kubernetes. [Old versions](https://github.com/cncf/curriculum/tree/master/old-versions) remain available.
 
