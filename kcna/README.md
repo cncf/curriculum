@@ -22,9 +22,9 @@ To help you prepare for the certification, we recommend these materials and cour
 * https://www.edx.org/course/introduction-to-kubernetes-on-edge-with-k3s
 * https://kube.academy
 * https://www.edx.org/course/introduction-to-linux
-* https://civo.com/academy
+* [Civo Academy](https://civo.com/academy)
 * [KCNA Course Overview](https://youtu.be/iGkFHB1kFZ0)
-*[KCNA study course on freeCodeCamp](https://www.youtube.com/watch?v=AplluksKvzI)
+* [KCNA study course on freeCodeCamp](https://www.youtube.com/watch?v=AplluksKvzI)
 
 ## Acknowledgements 
 
