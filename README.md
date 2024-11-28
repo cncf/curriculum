@@ -9,6 +9,7 @@ This is the latest version of the curriculum for the following CNCF exams:
 * Certified Kubernetes Security Specialist (CKS)
 * Certified GitOps Associate (CGOA)
 * Certified Argo Project Associate (CAPA)
+* Certified Backstage Associate (CBA)
 * Cilium Certified Associate (CCA)
 * Istio Certified Associate (ICA)
 * Kubernetes and Cloud Native Associate (KCNA)
