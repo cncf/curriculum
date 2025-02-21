@@ -14,6 +14,7 @@ This is the latest version of the curriculum for the following CNCF exams:
 * Istio Certified Associate (ICA)
 * Kubernetes and Cloud Native Associate (KCNA)
 * Kubernetes and Cloud Native Security Associate (KCSA)
+* OpenTelemetry Certified Associate (OTCA)
 * Prometheus Certified Associate (PCA)
 
 If you see any errors with the document, please open an [issue](https://github.com/cncf/curriculum/issues/new) here. The document major and minor version (e.g., the 1 and 8 in 1.8.0) match the version of Kubernetes. The patch version (e.g., the 0 in 1.8.0) represents any iterations in the documentation for that version of Kubernetes. [Old versions](https://github.com/cncf/curriculum/tree/master/old-versions) remain available.
