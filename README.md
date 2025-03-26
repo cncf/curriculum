@@ -12,7 +12,7 @@ This is the latest version of the curriculum for the following CNCF exams:
 * Certified Backstage Associate (CBA)
 * Cilium Certified Associate (CCA)
 * Istio Certified Associate (ICA)
-* Keyverno Certified Associate (KCA)
+* Kyverno Certified Associate (KCA)
 * Kubernetes and Cloud Native Associate (KCNA)
 * Kubernetes and Cloud Native Security Associate (KCSA)
 * OpenTelemetry Certified Associate (OTCA)
