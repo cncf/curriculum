@@ -10,6 +10,7 @@ This is the latest version of the curriculum for the following CNCF exams:
 * Certified GitOps Associate (CGOA)
 * Certified Argo Project Associate (CAPA)
 * Certified Backstage Associate (CBA)
+* Certified Cloud Native Platform Engineering Associate (CNPA)
 * Cilium Certified Associate (CCA)
 * Istio Certified Associate (ICA)
 * Kyverno Certified Associate (KCA)
