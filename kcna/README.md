@@ -6,11 +6,10 @@ This certification will provide an onramp for an individual to get situated in t
 
 ## Domains
 
-* Kubernetes Fundamentals	46%
-* Container Orchestration	22%
-* Cloud Native Architecture	16%
-* Cloud Native Observability	8%
-* Cloud Native Application Delivery	8%
+* Kubernetes Fundamentals	44%
+* Container Orchestration	28%
+* Cloud Native Application Delivery	16%
+* Cloud Native Architecture	12%
 
 ## Resources
 
@@ -26,15 +25,44 @@ To help you prepare for the certification, we recommend these materials and cour
 * [KCNA Course Overview](https://youtu.be/iGkFHB1kFZ0)
 * [KCNA study course on freeCodeCamp](https://www.youtube.com/watch?v=AplluksKvzI)
 
-## Acknowledgements 
+## Contributions
 
-* Chris Aniszczyk (co-lead), Katie Gamanji (co-lead), Divya Mohan (co-lead), Jeffrey Sica (co-lead)
+This curriculum is the result of a community-driven effort, with contributions from subject matter experts across the cloud native ecosystem
 
-And special thank you to all who contributed to the creation and testing of the exam in one way or another
+### Contributors
 
-* Ihor Dvoretskyi
-* Ricardo Katz
-* Tom Kerkhove
-* David McKay
-* Walid Shaari
-* Saiyam Pathak
+- Balasundaram Natarajan
+- Chris Aniszczyk
+- Chun Wu
+- David Mckay
+- Dillibabu Sampath
+- Divya Mohan
+- Dmitry Shurupov
+- Edson Celio Araujo
+- Eduardo Munari
+- Esaya Jokonya
+- Eugen Cusmaunsa
+- Giorgi Keratishvili
+- Ihor Dvoretskyi
+- James Evans
+- Jeffrey Sica
+- Johann Gyger
+- Katie Gamanji
+- Kris Musard
+- Mahendran Selvakumar
+- Mars Toktonaliev
+- Michael Bright
+- N P
+- Naeil Ezzoueidi
+- Nicola Marco Decandia
+- Ramesh Kumar
+- Randy Abernethy
+- Ricardo Pchevuzinske Katz
+- Saiyam Pathak
+- Santhosh Nc
+- Santosh Kumar Perumal
+- Srikar Ananthula
+- Tom Kerkhove
+- Walid Shaari
+- Yunjie Zhu
+- Zurab Jishkariani
