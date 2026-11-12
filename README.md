@@ -12,6 +12,7 @@ This is the latest version of the curriculum for the following CNCF exams:
 * Certified Backstage Associate (CBA)
 * Certified Cloud Native Platform Engineering Associate (CNPA)
 * Certified Cloud Native Platform Engineer (CNPE)
+* Certified Kubernetes Network Engineer (CKNE)
 * Cilium Certified Associate (CCA)
 * Istio Certified Associate (ICA)
 * Kyverno Certified Associate (KCA)
